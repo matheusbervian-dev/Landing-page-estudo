@@ -1,4 +1,5 @@
 # Landing page estudo
 Aplicando conhecimentos básicos em HTML e CSS
 
-Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
+Acesse a landing page:
+<a href="https://matheusbervian-dev.github.io/Landing-page-estudo/">Clique aqui</a>
